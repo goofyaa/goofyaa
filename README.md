@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @goofyaa
+- 👋 Hi, I’m @niharika
 - 👀 I’m interested in CODING AND MUSIC
 - 🌱 I’m currently learning DSA,ukulele
 - 💞️ I’m looking to collaborate on different projects related to tech
